@@ -22,7 +22,7 @@
         "nom": "Salade César",
         "prix": 8.99,
         "description": "Salade fraîche avec poulet grillé, croûtons et sauce César",
-        "image": "https://example.com/salade-cesar.jpg",
+        "image": "/images/plats/salade.png",
         "categorieId": 1,
         "restaurantId": 1,
       "rating": 4.5
@@ -32,7 +32,7 @@
         "nom": "Soupe à l'oignon",
         "prix": 7.50,
         "description": "Soupe traditionnelle avec croûtons et fromage gratiné",
-        "image": "https://example.com/soupe-oignon.jpg",
+        "image": "/images/plats/soupe.png",
         "categorieId": 1,
         "restaurantId": 1,
       "rating": 4.0
@@ -42,7 +42,7 @@
         "nom": "Carpaccio de boeuf",
         "prix": 10.99,
         "description": "Fines tranches de boeuf cru, parmesan et roquette",
-        "image": "https://example.com/carpaccio-boeuf.jpg",
+        "image": "/images/plats/carpaccio.png",
         "categorieId": 1,
         "restaurantId": 1,
       "rating": 5.0
@@ -52,7 +52,7 @@
         "nom": "Bruschetta",
         "prix": 6.99,
         "description": "Pain grillé avec tomates, ail et basilic frais",
-        "image": "https://example.com/bruschetta.jpg",
+        "image": "/images/plats/bruschetta.png",
         "categorieId": 1,
         "restaurantId": 1,
       "rating": 3.5
@@ -62,7 +62,7 @@
         "nom": "Foie gras",
         "prix": 14.99,
         "description": "Terrine de foie gras maison avec chutney de figues",
-        "image": "https://example.com/foie-gras.jpg",
+        "image": "/images/plats/foie.png",
         "categorieId": 1,
         "restaurantId": 1,
       "rating": 4.5
@@ -72,7 +72,7 @@
         "nom": "Steak Frites",
         "prix": 15.99,
         "description": "Steak juteux accompagné de frites croustillantes",
-        "image": "https://example.com/steak-frites.jpg",
+        "image": "/images/plats/steak.png",
         "categorieId": 2,
         "restaurantId": 2,
       "rating": 4.5
@@ -82,7 +82,7 @@
         "nom": "Poulet rôti",
         "prix": 13.99,
         "description": "Demi-poulet rôti avec pommes de terre et légumes",
-        "image": "https://example.com/poulet-roti.jpg",
+        "image": "/images/plats/poulet.png",
         "categorieId": 2,
         "restaurantId": 2,
       "rating": 5.0
@@ -92,7 +92,7 @@
         "nom": "Lasagnes",
         "prix": 12.50,
         "description": "Lasagnes maison à la bolognaise et béchamel",
-        "image": "https://example.com/lasagnes.jpg",
+        "image": "/images/plats/lasagne.png",
         "categorieId": 2,
         "restaurantId": 2,
       "rating": 4.0
@@ -102,7 +102,7 @@
         "nom": "Saumon grillé",
         "prix": 16.99,
         "description": "Filet de saumon grillé, riz et légumes de saison",
-        "image": "https://example.com/saumon-grille.jpg",
+        "image": "/images/plats/saumon.png",
         "categorieId": 2,
         "restaurantId": 2,
       "rating": 4.5
@@ -112,7 +112,7 @@
         "nom": "Risotto aux champignons",
         "prix": 14.50,
         "description": "Risotto crémeux aux champignons et parmesan",
-        "image": "https://example.com/risotto-champignons.jpg",
+        "image": "/images/plats/risotto.png",
         "categorieId": 2,
         "restaurantId": 2,
       "rating": 4.0
@@ -122,7 +122,7 @@
         "nom": "Tarte au citron meringuée",
         "prix": 6.99,
         "description": "Dessert acidulé avec une délicieuse meringue",
-        "image": "https://example.com/tarte-citron.jpg",
+        "image": "/images/plats/tarte-1.png",
         "categorieId": 3,
         "restaurantId": 3,
       "rating": 4.5
@@ -132,7 +132,7 @@
         "nom": "Mousse au chocolat",
         "prix": 5.99,
         "description": "Mousse légère et aérienne au chocolat noir",
-        "image": "https://example.com/mousse-chocolat.jpg",
+        "image": "/images/plats/mousse-1.png",
         "categorieId": 3,
         "restaurantId": 3,
       "rating": 4.5
@@ -142,7 +142,7 @@
         "nom": "Crème brûlée",
         "prix": 6.50,
         "description": "Crème vanillée avec une croûte de caramel croquant",
-        "image": "https://example.com/creme-brulee.jpg",
+        "image": "/images/plats/creme.png",
         "categorieId": 3,
         "restaurantId": 3,
       "rating": 4.5
@@ -152,7 +152,7 @@
         "nom": "Tiramisu",
         "prix": 7.50,
         "description": "Dessert italien au café et au mascarpone",
-        "image": "https://example.com/tiramisu.jpg",
+        "image": "/images/plats/tiramisu.png",
         "categorieId": 3,
         "restaurantId": 3,
       "rating": 4.5
@@ -162,7 +162,7 @@
         "nom": "Profiteroles",
         "prix": 8.50,
         "description": "Choux à la crème nappés de chocolat chaud",
-        "image": "https://example.com/profiteroles.jpg",
+        "image": "/images/plats/profiteroles.png",
         "categorieId": 3,
         "restaurantId": 3,
       "rating": 4.5
@@ -173,7 +173,7 @@
           "id": 1,
           "nom": "Le Gourmet",
           "description": "Restaurant gastronomique avec une vue imprenable sur la ville",
-          "image": "https://example.com/le-gourmet.jpg",
+          "image": "/images/restaurants/resto-1.png",
           "adresse": "123 Rue de la Gastronomie, 75001 Paris",
           "telephone": "+33 1 23 45 67 89",
           "rating": 4.7
@@ -182,7 +182,7 @@
           "id": 2,
           "nom": "Bistro du Coin",
           "description": "Cuisine traditionnelle française dans une ambiance conviviale",
-          "image": "https://example.com/bistro-du-coin.jpg",
+          "image": "/images/restaurants/resto-2.png",
           "adresse": "45 Avenue des Saveurs, 69002 Lyon",
           "telephone": "+33 4 56 78 90 12",
           "rating": 4.5
@@ -191,7 +191,7 @@
           "id": 3,
           "nom": "Saveurs d'Asie",
           "description": "Un voyage culinaire à travers l'Asie",
-          "image": "https://example.com/saveurs-asie.jpg",
+          "image": "/images/restaurants/resto-3.png",
           "adresse": "78 Boulevard de l'Orient, 13001 Marseille",
           "telephone": "+33 4 91 23 45 67",
           "rating": 4.8
@@ -202,7 +202,7 @@
           "id": 1,
           "title": "Voyage culinaire en Italie",
           "description": "Découvrez les saveurs authentiques de la cuisine italienne lors d'un séjour gastronomique inoubliable.",
-          "image": "https://example.com/italy-culinary.jpg",
+          "image": "/images/recommandations/reco-1.png",
           "link": "https://example.com/italy-culinary-tour",
           "highlights": [
             "Cours de cuisine avec des chefs locaux",
@@ -214,7 +214,7 @@
           "id": 2,
           "title": "Escapade gourmande au Japon",
           "description": "Plongez dans l'univers fascinant de la cuisine japonaise, entre tradition et modernité.",
-          "image": "https://example.com/japan-culinary.jpg",
+          "image": "/images/recommandations/reco-2.png",
           "link": "https://example.com/japan-culinary-tour",
           "highlights": [
             "Apprentissage de la préparation de sushis",
@@ -226,7 +226,7 @@
           "id": 3,
           "title": "Saveurs méditerranéennes en Grèce",
           "description": "Laissez-vous séduire par la cuisine grecque et ses produits frais lors d'un périple gustatif.",
-          "image": "https://example.com/greece-culinary.jpg",
+          "image": "/images/recommandations/reco-3.png",
           "link": "https://example.com/greece-culinary-tour",
           "highlights": [
             "Atelier de préparation de mezzés",
